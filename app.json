@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "simply-chatterbox",
-    "slug": "simply-chatterbox",
+    "name": "react-native-simply-chatterbox",
+    "slug": "react-native-simply-chatterbox",
     "platforms": [
       "ios",
       "android",
@@ -9,9 +9,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "https://www.pngfind.com/pngs/m/65-659114_free-vector-icon-download-thousands-of-free-icons.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://www.pngfind.com/pngs/m/65-659114_free-vector-icon-download-thousands-of-free-icons.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
